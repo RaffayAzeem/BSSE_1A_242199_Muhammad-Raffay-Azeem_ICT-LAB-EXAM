@@ -218,6 +218,7 @@ main,
 .upl strong{
     cursor:pointer;
     text-decoration:underline;
+    text-decoration-colour:#750000;
     padding:40px;
     line-height:3;
 }
