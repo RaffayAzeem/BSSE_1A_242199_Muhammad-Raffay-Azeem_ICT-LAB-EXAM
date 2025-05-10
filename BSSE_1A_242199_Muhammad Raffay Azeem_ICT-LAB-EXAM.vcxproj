@@ -130,6 +130,18 @@
     <Text Include="index.html" />
     <Text Include="styles.css" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="CAMPUS LIFE.PNG" />
+    <Image Include="HERO.PNG" />
+    <Image Include="MIT LABS.PNG" />
+    <Image Include="MIT LOGO.PNG" />
+    <Image Include="RESEARCH.PNG" />
+    <Image Include="RESEARCH2.PNG" />
+    <Image Include="SEARCH.PNG" />
+    <Image Include="SEARCH2.PNG" />
+    <Image Include="SPOTLIGHT.PNG" />
+    <Image Include="SPOTLIGHT2.PNG" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
